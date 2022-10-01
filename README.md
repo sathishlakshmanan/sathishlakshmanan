@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Supporting E-Learnings and Education on the Fringe of the Digital Sphere](https://seeds.wineme.wiwi.uni-siegen.de/)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Python, Rasa, Docker**
 
