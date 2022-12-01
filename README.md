@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sathish K Lakshmanan</h1>
-<h3 align="center">My focus is on Python Backend development, Natural Language Processing, Conversational AI</h3>
+<h3 align="center">I focus on Python development, Natural Language Processing, Conversational AI</h3>
 
 - 🔭 I’m currently working on [Supporting E-Learnings and Education on the Fringe of the Digital Sphere](https://seeds.wineme.wiwi.uni-siegen.de/)
 
